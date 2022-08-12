@@ -14,7 +14,7 @@ Repository contains Git Demo
 	$ git commit -m "<any relavant message>"
 	
 ## How to push changes to Github
-	$ git push
+	$ git push / git push origin
 	
 #Git Branching
 
